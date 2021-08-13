@@ -69,6 +69,7 @@
 - web前端
   - echo
   - istommao
+  - aole
 - 安卓：peterbanban
 - IOS：？
 - PC：ifun
